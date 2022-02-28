@@ -22,8 +22,7 @@ The challenge is to make an Order summary card same as the one in the design fol
 
 ### links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://blissful-swanson-30f428.netlify.app/)
 
 ##My process
 
